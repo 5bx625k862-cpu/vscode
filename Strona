@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Ogłoszenie – Kup teraz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">OGŁOSZENIA</div>
+</header>
+
+<main>
+    <div class="offer">
+        <img src="https://via.placeholder.com/500x350" alt="Produkt">
+
+        <div class="details">
+            <h1>iPhone 12 – idealny stan</h1>
+            <p class="price">2 200 zł</p>
+
+            <p class="desc">
+                Telefon w bardzo dobrym stanie, bez blokad.
+                Odbiór osobisty lub wysyłka.
+            </p>
+
+            <!-- PRZEKIEROWANIE DO PŁATNOŚCI -->
+            <a class="buy-btn" href="https://twoj-link-do-platnosci.pl">
+                Kup i zapłać
+            </a>
+
+            <p class="safe">
+                🔒 Bezpieczna płatność online
+            </p>
+        </div>
+    </div>
+</main>
+
+</body>
+</html>
